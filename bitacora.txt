@@ -11,4 +11,8 @@
 	git add .
 	git commit -m "Incluidos nombre y apellidos"
 
-3. 
+3. 	Edito el archivo para incluir los cambios.
+	git add .
+	git commit -m "Paso 03"
+
+4.
