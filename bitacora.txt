@@ -19,3 +19,11 @@
 5. Edito, git add . y git commit -m "Paso 05"
 6. git checkout -b SegundaRama 
 7. git add . -> git commit -m "Paso 07"
+
+
+
+14. Se trataría de una fusión fast-forward, ya que se ha modificado el mismo archivo en las dos ramas, pero no involucra la rama master.
+
+15.Se trataría de una fusión recursiva, ya que en la masters se han realizado un commit.
+
+16. git checkout SegundaRama
