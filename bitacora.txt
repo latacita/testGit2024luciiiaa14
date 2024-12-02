@@ -6,3 +6,9 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1	git clone https://github.com/latacita/testGit2024luciiiaa14.git --->Se clona el repositorio.
+2	Se incluyen en el archivo el nombre y apellidos.
+	git add .
+	git commit -m "Incluidos nombre y apellidos"
+
+3. 
