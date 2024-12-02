@@ -16,3 +16,10 @@
 	git commit -m "Paso 03"
 
 4.
+
+
+
+8.git push origin SegundaRama
+9.git checkout master	--> Surgió un conflicto en la cabecera del documento y resolví los conflictos manualmente, 
+			seleccionando mi nombre.  A continuación, git add . y git commit -m "Resolución de 				conflictos."
+
