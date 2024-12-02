@@ -6,10 +6,10 @@
 
  Paso   Acción                       Notas
 ====== ============================ ================================
-1	git clone https://github.com/latacita/testGit2024luciiiaa14.git --->Se clona el repositorio.
-2	Se incluyen en el archivo el nombre y apellidos.
-	git add .
-	git commit -m "Incluidos nombre y apellidos"
+1	git clone https://github.com/latacita/testGit2024luciiiaa14.git Se clona el repositorio.
+2	git add .
+	git commit -m "Incluidos nombre y apellidos"		Se incluyen en el archivo el nombre y apellidos.
+	
 
 3. 	Edito el archivo para incluir los cambios.
 	git add .
@@ -19,20 +19,25 @@
 
 
 
-8.git push origin SegundaRama
-9.git checkout master	--> Surgió un conflicto en la cabecera del documento y resolví los conflictos manualmente, 
+8.	git push origin SegundaRama
+9.	git checkout master	--> Surgió un conflicto en la cabecera del documento y resolví los conflictos manualmente, 
 			seleccionando mi nombre.  A continuación, git add . y git commit -m "Resolución de 				conflictos."
 
 
 
 
-17. git checkout PrimeraRama
-18. git merge --no-ff SegundaRama   --> Surge un conflicto en el cual reordeno los pasos para llevar a cabo este examen.
+17. 	git checkout PrimeraRama
+18. 	git merge --no-ff SegundaRama   --> Surge un conflicto en el cual reordeno los pasos para llevar a cabo este examen.
 	git add .
 	git commit -m "Resuelvo conflicto del merge"
 
-19. git checkout master
-20. git stash apply
+19. 	git checkout master
+20. 	git stash apply
 	git add .
-git commit -m "Stash Recuperado"
+	git commit -m "Stash Recuperado"
 
+26. 	git tag PasosExtras
+27. 	git checkout master
+28. 	No he sabido hacer un cherry-pick
+29. 	git add 
+	git commit -m "Paso 29"
