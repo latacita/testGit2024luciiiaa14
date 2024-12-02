@@ -1,0 +1,12 @@
+%%==================================================================%%
+%%                 Métodos de Desarrollo - Test de Git              %%
+%%==================================================================%%
+%% Alumno (Apellidos, Nombre):Sañudo Callejo, Lucía                 %%
+%%==================================================================%%
+
+ Paso   Acción                       Notas
+====== ============================ ================================
+
+22	git push origin master	
+23	git push origin SegundaRama
+24 	Creo un fichero llamado pasosExtra.txt
