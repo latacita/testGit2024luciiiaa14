@@ -23,3 +23,16 @@
 9.git checkout master	--> Surgió un conflicto en la cabecera del documento y resolví los conflictos manualmente, 
 			seleccionando mi nombre.  A continuación, git add . y git commit -m "Resolución de 				conflictos."
 
+
+
+
+17. git checkout PrimeraRama
+18. git merge --no-ff SegundaRama   --> Surge un conflicto en el cual reordeno los pasos para llevar a cabo este examen.
+	git add .
+	git commit -m "Resuelvo conflicto del merge"
+
+19. git checkout master
+20. git stash apply
+	git add .
+git commit -m "Stash Recuperado"
+
