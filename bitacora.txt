@@ -17,3 +17,4 @@
 
 4. git checkout -b PrimeraRama 
 5. Edito, git add . y git commit -m "Paso 05"
+6. git checkout -b SegundaRama -> git add . -> git commit -m "Paso 07"
